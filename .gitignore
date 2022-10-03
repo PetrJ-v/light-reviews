@@ -1,0 +1,5 @@
+/.git/
+/**/Thumbs.db
+/**/*.DS_Store
+/**/debug.log
+*node_modules

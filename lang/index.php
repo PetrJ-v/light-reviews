@@ -1,0 +1,2 @@
+<?php
+// Silens is golden

@@ -1,0 +1,128 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Light review Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Petr Zhechkov <shevron.dev@gmail.com>\n"
+"POT-Creation-Date: 2022-08-21 16:41+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Petr Zhechkov <shevron.dev@gmail.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: light-reviews.php:53
+msgid "Add feedback"
+msgstr "Додати відгук"
+
+#: light-reviews.php:56
+msgid "Your first and last name"
+msgstr "Ваше ім’я та призвище"
+
+#: light-reviews.php:57
+msgid "Anasavia Yakovleva"
+msgstr "Анасавія Яковлєва"
+
+#: light-reviews.php:60
+msgid "Phone"
+msgstr "Телефон"
+
+#: light-reviews.php:69
+msgid "Blank lines start a new paragraph"
+msgstr "Порожні рядки починають новий абзац"
+
+#: light-reviews.php:70
+msgid "Send"
+msgstr "Відправити"
+
+#: light-reviews.php:101
+msgid ""
+"Feedback sent successfully!</br>After verification by the administrator, it "
+"will be published on the site."
+msgstr ""
+"Відгук надіслано успішно!</br>Після перевірки адміністратором, його буде "
+"опубліковано на сайті."
+
+#: light-reviews.php:109
+msgid ""
+"An error occurred while submitting feedback!</br>Review not sent. If this "
+"happens again, please let us know."
+msgstr ""
+"При надсиланні відгуку сталася помилка!</br>Відгук не надіслано. Якщо це "
+"повториться, будь ласка, повідомте нам."
+
+#: light-reviews.php:121
+msgid "Leave feedback"
+msgstr "Залишити відгук"
+
+#: light-reviews.php:130 light-reviews.php:141
+msgid "Feedbacks"
+msgstr "Відгуки"
+
+#: light-reviews.php:131
+msgid "Feedback"
+msgstr "Відгук"
+
+#: light-reviews.php:132
+msgid "Add feedbacks"
+msgstr "Додати відгук"
+
+#: light-reviews.php:133
+msgid "Adding a feedback"
+msgstr "Додавання відгуку"
+
+#: light-reviews.php:134
+msgid "Editing a feedback"
+msgstr "Редагування відгуку"
+
+#: light-reviews.php:135
+msgid "New feedback"
+msgstr "Новий відгук"
+
+#: light-reviews.php:136
+msgid "Watch feedback"
+msgstr "Дивитись відгук"
+
+#: light-reviews.php:137
+msgid "Search feedback"
+msgstr "Шукати відгук"
+
+#: light-reviews.php:138
+msgid "No feedbacks found"
+msgstr "Відгуків не знайдено"
+
+#: light-reviews.php:139
+msgid "Not found in cart"
+msgstr "Не знайдено у корзині"
+
+#: light-reviews.php:143
+msgid "Company feedback"
+msgstr "Відгук про компанію"
+
+#: light-reviews.php:165
+msgid "Client data"
+msgstr "Дані клієнта"
+
+#: light-reviews.php:182
+msgid "Client phone"
+msgstr "Телефон клієнта"
+
+#~ msgid "Your name"
+#~ msgstr "Ваше ім’я"
+
+#~ msgid "Watch отзыв"
+#~ msgstr "Дивитись відгук"
